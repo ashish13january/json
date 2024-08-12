@@ -1,7 +1,7 @@
 {
   "posts": [
    {
-"UniqueID": "   PR_2021_01_30000007   ",
+"UniqueID": "   PR_2021_01_30000009   ",
 "ProtocolName": "ISDA 2021 SBS Top-Up Protocol",
 "Organization Name": "   Test organization 1   ",
 "Organization LEI/CICI": "   549300CTKKI0PPNNN259   ",
@@ -15,11 +15,13 @@
 "Letter": " http://www2.isda.org/functional-areas/protocol-management/protocol-adherence-letter/377991 ",
 "RevokeDate": "",
 "RevokeLink": "",
+"Status": "accepted",
+"Change": "new addition",
 "Company Name Update": "",
 "Company Name Change Letter URL": ""
 },
 {
-"UniqueID": "PR_2021_01_30000008",
+"UniqueID": "PR_2021_01_300000010",
 "ProtocolName": "ISDA 2021 SBS Top-Up Protocol",
 "Organization Name": "  Test organization 2  ",
 "Organization LEI/CICI": "   549300CTKKI0PPNNN259   ",
@@ -33,6 +35,8 @@
 "Letter": " http://www2.isda.org/functional-areas/protocol-management/protocol-adherence-letter/367859 ",
 "RevokeDate": "",
 "RevokeLink": "",
+"Status": "accepted",
+"Change": "new addition",
 "Company Name Update": "",
 "Company Name Change Letter URL": ""
 }
