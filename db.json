@@ -1,38 +1,38 @@
 {
   "posts": [
 {
-    "UniqueID": "PR_2020_01_300000001",
+    "UniqueID": "  PR_2020_01_300000003  ",
     "ProtocolName": "ISDA 2020 IBOR Fallbacks Protocol",
-    "Organization Name": "Test Spaces 1",
-    "Organization LEI/CICI": "549300NQWIILN4JEY195",
-    "Country": "Russia",
+    "Organization Name": "   Test Spaces 1   ",
+    "Organization LEI/CICI": "   549300NQWIILN4JEY195   ",
+    "Country": "  Russia  ",
     "SubmitDate": "Aug 09 2024 09:36 am",
     "AcceptDate": "Aug 09 2024 09:36 am",
-    "Adherence Type": "Single Entity Adherence",
-    "Letter": "http://www2.isda.org/functional-areas/protocol-management/protocol-adherence-letter/262492",
+    "Adherence Type": "  Single Entity Adherence  ",
+    "Letter": "  http://www2.isda.org/functional-areas/protocol-management/protocol-adherence-letter/262492  ",
     "RevokeDate": "",
     "RevokeLink": "",
     "Option 1": "",
     "Option 2": "",
-    "Company Name Update": "Test",
-    "Company Name Change Letter URL": "Test"
+    "Company Name Update": "  Test  ",
+    "Company Name Change Letter URL": "  Test  "
   },
   {
-    "UniqueID": "PR_2020_01_30000002",
-    "ProtocolName": "ISDA 2020 IBOR Fallbacks Protocol",
-    "Organization Name": "Test Spaces 2",
-    "Organization LEI/CICI": "549300NQWIILN4JEY196",
-    "Country": "Russia",
+    "UniqueID": "  PR_2020_01_30000004  ",
+    "ProtocolName": " ISDA 2020 IBOR Fallbacks Protocol ",
+    "Organization Name": "  Test Spaces 2  ",
+    "Organization LEI/CICI": "  549300NQWIILN4JEY196  ",
+    "Country": "  Russia  ",
     "SubmitDate": "Aug 09 2024 09:36 am",
     "AcceptDate": "Aug 09 2024 09:36 am",
-    "Adherence Type": "Single Entity Adherence",
-    "Letter": "http://www2.isda.org/functional-areas/protocol-management/protocol-adherence-letter/262492",
+    "Adherence Type": "  Single Entity Adherence  ",
+    "Letter": "  http://www2.isda.org/functional-areas/protocol-management/protocol-adherence-letter/262492  ",
     "RevokeDate": "",
     "RevokeLink": "",
     "Option 1": "",
     "Option 2": "",
-    "Company Name Update": "Test",
-    "Company Name Change Letter URL": "Test"
+    "Company Name Update": "  Test  ",
+    "Company Name Change Letter URL": "  Test  "
   }
   ],
   "profile": [
