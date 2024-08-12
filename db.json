@@ -39,7 +39,7 @@
     {
   "id": 41,
   "protocol": "ISDA 2020 IBOR Fallbacks Protocol",
-  "url": "https://www.isda.org/wp-json/isda/v1/adherence-api/41?page=1",
+  "url": "https://my-json-server.typicode.com/ashish13january/json/posts?page=1",
   "total": 10,
   "per-page": 50,
   "pages": 1
