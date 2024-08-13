@@ -1,39 +1,83 @@
 {
-  "posts": [
+  "sbs": [
 {
-    "UniqueID": "  PR_2020_01_300000003  ",
-    "ProtocolName": "ISDA 2020 IBOR Fallbacks Protocol",
-    "Organization Name": "   Test Spaces 1   ",
-    "Organization LEI/CICI": "   549300NQWIILN4JEY195   ",
-    "Country": "  Russia  ",
-    "SubmitDate": "Aug 09 2024 09:36 am",
-    "AcceptDate": "Aug 09 2024 09:36 am",
-    "Adherence Type": "  Single Entity Adherence  ",
-    "Letter": "  http://www2.isda.org/functional-areas/protocol-management/protocol-adherence-letter/262492  ",
+	"UniqueID": "   PR_2021_02_30000001   ",
+	"ProtocolName": "   ISDA 2021 SBS Protocol   ",
+	"Organization Name": "   Test 1    ",
+	"Organization LEI/CICI": "  213800OZ1UFS000WD307  ",
+	"Country": "  United Kingdom  ",
+	"SubmitDate": "   Aug 09 2024 09:36 am   ",
+	"AcceptDate": "Oct 04 2021 05:48 pm",
+	"Adherence Type": "   Investment/Asset Manager/or other agent on behalf of a fund/multiple funds/or other principal   ",
+	"Letter": " http://www2.isda.org/functional-areas/protocol-management/protocol-adherence-letter/372312 ",
+	"RevokeDate": "",
+	"RevokeLink": "",
+	"ISDA Amend": " yes ",
+	"In Writing": "",
+	"Fax": "",
+	"Submitted By Email": "   Test@test.com   ",
+	"SBS Covered Entity Supplement I": "   yes   ",
+	"SBS Covered Entity Supplement II": "   yes   ",
+	"Company Name Update": "   test   ",
+	"Company Name Change Letter URL": ""
+},
+{
+	"UniqueID": "PR_2021_02_30000002",
+	"ProtocolName": "   ISDA 2021 SBS Protocol   ",
+	"Organization Name": "   Test 2    ",
+	"Organization LEI/CICI": "    254900SRVRIMQ000WH67    ",
+	"Country": "  United Kingdom  ",
+	"SubmitDate": "   Aug 09 2024 09:36 am   ",
+	"AcceptDate": "Oct 04 2021 05:48 pm",
+	"Adherence Type": "   Investment/Asset Manager/or other agent on behalf of a fund/multiple funds/or other principal   ",
+	"Letter": " http://www2.isda.org/functional-areas/protocol-management/protocol-adherence-letter/372312 ",
+	"RevokeDate": "",
+	"RevokeLink": "",
+	"ISDA Amend": " yes ",
+	"In Writing": "",
+	"Fax": "",
+	"Submitted By Email": "   Test@test.com   ",
+	"SBS Covered Entity Supplement I": "   yes   ",
+	"SBS Covered Entity Supplement II": "   yes   ",
+	"Company Name Update": "   test   ",
+	"Company Name Change Letter URL": ""
+}
+  ],
+  "agency":[
+    {
+    "UniqueID": "   PR_2023_01_100000001   ",
+    "ProtocolName": "    ISDA 2023 Equity Swap &#8211; 2021 Definitions Protocol    ",
+    "Organization Name": "    Test 1    ",
+    "Organization LEI/CICI": "     549300CTYYYYFKNCD259     ",
+    "Country": " United States ",
+    "SubmitDate": "   Aug 13 2024 09:36 am   ",
+    "AcceptDate": "   Aug 13 2024 09:36 am   ",
+    "Adherence Type": "    Investment/Asset Manager or Other Agent on Behalf of All Funds, Accounts or other Principals that it Represents    ",
+    "Letter": " http://www2.isda.org/functional-areas/protocol-management/protocol-adherence-letter/1031995 ",
     "RevokeDate": "",
     "RevokeLink": "",
-    "Option 1": "",
-    "Option 2": "",
-    "Company Name Update": "  Test  ",
-    "Company Name Change Letter URL": "  Test  "
-  },
-  {
-    "UniqueID": "  PR_2020_01_30000004  ",
-    "ProtocolName": " ISDA 2020 IBOR Fallbacks Protocol ",
-    "Organization Name": "  Test Spaces 2  ",
-    "Organization LEI/CICI": "  549300NQWIILN4JEY196  ",
-    "Country": "  Russia  ",
-    "SubmitDate": "Aug 09 2024 09:36 am",
-    "AcceptDate": "Aug 09 2024 09:36 am",
-    "Adherence Type": "  Single Entity Adherence  ",
-    "Letter": "  http://www2.isda.org/functional-areas/protocol-management/protocol-adherence-letter/262492  ",
+    "Option 1": " yes ",
+    "Option 2": " yes ",
+    "Company Name Update": "   test   ",
+    "Company Name Change Letter URL": ""
+},
+{
+    "UniqueID": "PR_2023_01_100000002",
+    "ProtocolName": "    ISDA 2023 Equity Swap &#8211; 2021 Definitions Protocol    ",
+    "Organization Name": "    Test 2    ",
+    "Organization LEI/CICI": "     549300CTYYYYFKNCD259     ",
+    "Country": " United States ",
+    "SubmitDate": "   Aug 13 2024 09:36 am   ",
+    "AcceptDate": "   Aug 13 2024 09:36 am   ",
+    "Adherence Type": "   Single Entity Adherence  ",
+    "Letter": " http://www2.isda.org/functional-areas/protocol-management/protocol-adherence-letter/1031995 ",
     "RevokeDate": "",
     "RevokeLink": "",
-    "Option 1": "",
-    "Option 2": "",
-    "Company Name Update": "  Test  ",
-    "Company Name Change Letter URL": "  Test  "
-  }
+    "Option 1": " yes ",
+    "Option 2": " yes ",
+    "Company Name Update": "   test   ",
+    "Company Name Change Letter URL": ""
+}
   ],
   "profile": [
     {
@@ -51,6 +95,22 @@
   "total": 475,
   "per-page": 50,
   "pages": 10
+  },
+{
+"id": 45,
+"protocol": "ISDA 2021 SBS Protocol",
+"url": "https://my-json-server.typicode.com/ashish13january/json/sbs?page=1",
+"total": 2,
+"per-page": 50,
+"pages": 1
+},
+{
+"id": 55,
+"protocol": "ISDA 2023 Equity Swap - 2021 Definitions Protocol",
+"url": "https://my-json-server.typicode.com/ashish13january/json/agency?page=1",
+"total": 2,
+"per-page": 50,
+"pages": 1
   }
   ]
 }
